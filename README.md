@@ -6,7 +6,117 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-tranhoangtu-it/tranhoangtu-it is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**<center style="font-size:35px">Tu Tran Hoang</center>**
+
+***<center>“Be the change that you want to see in the world.”</center>***
+
+<center>
+  ✉️ tranhoangtu.it@gmail.com |
+  📱 +84 822346193 |
+  🇻🇳 VietNam
+
+  [![Linkedin](https://static.licdn.com/aero-v1/sc/h/47josflhxdz9o3v227aa72l1p)](https://www.linkedin.com/in/tutranhoang-it) |
+  [Github](https://github.com/tranhoangtu-it) |
+  [Website](https://tuth.xyz)
+</center>
+
+---
+
+## Summary
+
+Expert Software Engineer at OmiGroup VietNam, leading team in key technical projects, demonstrating
+strong leadership and receiving company recognition. Proficient in NetCore, Python, MSSQL, Redis, Algorithms, microservices and distributed system. Recognized for
+designing complex technical solutions and excelling in communication and project management.
+
+---
+
+## Experience
+<dl>
+<dt href="https://www.ominext.com/">
+  <div style="text-align: left; float: left; width: 50%;">OmiNext</div>
+  <div style="text-align: right; float: right; width: 50%;">Oct 2023 - Present</div>
+  Senior Software Engineer
+</dt>
+<ul>
+  <li>Participate in the process of understanding requirements, analyzing, designing technology research and reviewing source code of Medical products for Japanese Customers on .Net technology platform: VB.Net, MVC, ASP.Net,...</li>
+  <li>Work as assigned by BUD/Project Manager, coordinate with teams to develop products.</li>
+  <li>Provided quick access to exclusive news, data, detailed information.</li>
+  <li>Build project teams, train and develop project team members to improve capacity and work efficiency. Coordinate and optimize resources, ensuring cost efficiency.</li>
+  <li><strong>Language/Technology:</strong> .NET6, ReactJs, MSSQL, Elastic, MongoDB, Redis, Cloud providers (Microsoft Azure, Amazon Web Services (AWS)...</li>
+  <li><strong>Team Size:</strong> 15 </li>
+</ul>
+  
+<dt href="https://fiingroup.vn/">
+  <div style="text-align: left; float: left; width: 50%;">VIETNAM FIINGROUP JOINT STOCK COMPANY</div>
+  <div style="text-align: right; float: right; width: 50%;">Mar 2022 - Sep 2023</div>
+  Senior Software Engineer
+</dt>
+<ul>
+  <li>Engaged in the development of the new web version of FiinPro-X and FiinGate v2,
+    optimizing user experience, and updating a range of prominent features.</li>
+  <li>Managed a large database of in-depth investment research and trading information.</li>
+  <li>Provided quick access to exclusive news, data, detailed information, and trading tools.</li>
+  <li><strong>Language/Technology:</strong> .NET6, ReactJs, MSSQL, Elastic, MongoDB, Redis.</li>
+  <li><strong>Team Size:</strong> 6 </li>
+</ul>
+
+<dt>
+  <div style="text-align: left; float: left; width: 50%;">FPT COMPANY</div>
+  <div style="text-align: right; float: right; width: 50%;">Jan 2018 - Mar 2022</div>
+  Senior/Team Lead/TechLead Software Engineer
+</dt>
+<ul>
+  <li>Led the implementation of ERP projects and related modules.</li>
+  <li>Integrated ERP with electronic invoicing, third-party entities, tools, and banks.</li>
+  <li>Developed management software for multiple factories, including personnel management,
+import and export management, and warehouse management.</li>
+  <li>Executed the migration from VB6 to VB.NET.</li>
+  <li><strong>Language/Technology:</strong> Azure Cloud, VB6, VB.Net, C#, .NetCore, Oracle Form, Oracle Database.</li>
+  <li><strong>Team Size:</strong> 30 </li>
+</ul>
+
+<dt>
+  <div style="text-align: left; float: left; width: 50%;">3S INTERSOFT</div>
+  <div style="text-align: right; float: right; width: 50%;">DEC 2016 - JAN 2018</div>
+  Junior Software Engineer
+</dt>
+<ul>
+  <li>Created and executed project work plans, adjusting as necessary to meet changing needs
+    and requirements.</li>
+  <li>Conducted testing of customer management systems.</li>
+  <li><strong>Language/Technology:</strong> C#, .NetCore, MSSQL, PortgreDB.</li>
+  <li><strong>Team Size:</strong> between 3 to 5 </li>
+</ul>
+
+<dt>
+  <div style="text-align: left; float: left; width: 50%;">FPT COMPANY</div>
+  <div style="text-align: right; float: right; width: 50%;">OCT 2016 - DEC 2016</div>
+  Intern
+</dt>
+<ul>
+  <li>Participated in the website migration from Lotus Notes to SharePoint.</li>
+  <li><strong>Language/Technology:</strong> Lotus Note, SharePoint.</li>
+  <li><strong>Team Size:</strong> 20 </li>
+</ul>
+</dl>
+
+
+---
+
+## Certificate
+
+- Microsoft
+- Amazon
+
+---
+
+## Education
+
+<dt>
+  <div style="text-align: left; float: left; width: 50%; font-weight:bold;">FPT University</div>
+  <div style="text-align: right; float: right; width: 50%; font-weight:bold;">Hanoi, Vietnam</div>
+  <div style="text-align: left; float: left; width: 50%;">Software Engineering</div>
+  <div style="text-align: right; float: right; width: 50%;">Sept 2011 - March 2016</div>  
+</dt>
+
+---
