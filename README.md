@@ -99,7 +99,7 @@ import and export management, and warehouse management.</li>
 
 - Microsoft
 - Amazon
-[![Credly Badge](https://www.credly.com/assets/utilities/embed.js)](https://www.credly.com)
+- HL7 FHIR FOUNDATIONAL IMPLEMENTER
 ---
 
 ## Education
@@ -113,6 +113,3 @@ import and export management, and warehouse management.</li>
 
 ---
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@tranhoangtu-it/30-nites-of-code)  
-  ![@tranhoangtu-it #30NitesOfCode](https://www.codedex.io/api/petStatus?user=tranhoangtu-it)
