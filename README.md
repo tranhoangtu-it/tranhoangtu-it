@@ -16,9 +16,7 @@
 
 ## Summary
 
-Expert Software Engineer at OmiGroup VietNam, leading team in key technical projects, demonstrating
-strong leadership and receiving company recognition. Proficient in NetCore, Python, MSSQL, Redis, Algorithms, microservices and distributed system. Recognized for
-designing complex technical solutions and excelling in communication and project management.
+Experienced Software Engineer with a strong track record in leading technical teams and delivering enterprise-grade solutions. Proficient in .NET Core, Python, and microservices architecture. Specialized in AI development, HL7 FHIR healthcare integration, and high-performance distributed systems. Recognized for both technical expertise and leadership excellence.
 
 ---
 
