@@ -101,6 +101,8 @@ import and export management, and warehouse management.</li>
   <a target="blank" href="https://hl7-international.verified.cv/en/verify/31193384084038?code=AQTji4bYbwxW7L_i0iNHwbYxSQea5-RK_vR_RKj2fOJaRTwgtgudxrU7-9vuWFy1b9stpDQMJfKGJzdmJ08yk5m9UCsVLKbbFx60mQPNIJcY_WC6OzYUZpCoO2H9kKxytJHR3zvycw5qXE9rXKusws6QE4M5kflpHjw2_FsMVsDvUcFSFYcmco-2S4kD40kOsAZu1NgHDPO7RHLwkUE">
 		<img src="https://storage.googleapis.com/verified-storage/badge/31193384084038.png" alt="">
 	  </a>
+    [HL7 FHIR Implementer: Foundational Certification](https://hl7-international.verified.cv/en/verify/31193384084038)
+   
 ---
 
 ## Education
