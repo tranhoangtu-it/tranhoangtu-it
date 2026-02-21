@@ -28,35 +28,6 @@
 
 ---
 
-## Background
-
-### OmiNext — Senior Software Engineer
-**Oct 2023 - Present**
-
-Leading development of medical products for Japanese enterprise customers. Managing architecture, code review, and team of 15+.
-
-**Tech**: .NET 6+, ReactJS, Elasticsearch, MongoDB, Azure, AWS
-
----
-
-### VIETNAM FIINGROUP — Senior Software Engineer
-**Mar 2022 - Sep 2023**
-
-Engineered FiinPro-X and FiinGate v2 platforms—investment research with real-time financial data handling at scale.
-
-**Tech**: .NET 6, ReactJS, Elasticsearch, Redis
-
----
-
-### FPT COMPANY — Senior Engineer / Tech Lead
-**Jan 2018 - Mar 2022**
-
-Led ERP implementation projects. Managed 30+ engineers. Executed VB6→.NET migration for legacy systems.
-
-**Tech**: .NET Core, C#, Oracle, Azure
-
----
-
 ## Core Skills
 
 **Languages**: C# | Python | TypeScript | Go | C++ | VB.NET  
