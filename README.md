@@ -1,12 +1,9 @@
 <div align="center">
 
-# 🕵️ AGENT T.
+<img src="https://capsule-render.vercel.app/api?type=venom&color=ff6347&height=200&section=header&text=AGENT%20T.&fontSize=80&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=openS%20Operations%20Center&descSize=20&descColor=ff6347&descAlignY=55" width="100%" />
 
-### *"I don't have a Plan B. I have Plans A through V."*
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=tranhoangtu-it&color=red&style=flat-square&label=SURVEILLANCE+COUNT)
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+Decrypting+operation+manifest...;%3E+Establishing+secure+connection...;%3E+Signal+acquired.+All+plans+operational.;%3E+Clearance+level%3A+OMEGA+required." alt="Typing SVG" /></a>
 
 </div>
 
@@ -45,11 +42,19 @@
 
 <div align="center">
 
-### 📊 Intelligence Report
+## 📊 Intelligence Report
 
-<img src="https://github-readme-stats.vercel.app/api?username=tranhoangtu-it&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6347&icon_color=ff6347&text_color=c9d1d9" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=tranhoangtu-it&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6347&icon_color=ff6347&text_color=c9d1d9&ring_color=ff6347" alt="stats" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tranhoangtu-it&theme=radical&hide_border=true&background=0d1117&ring=ff6347&fire=ff6347&currStreakLabel=ff6347" alt="streak" />
+
+## 🐍 Contribution Surveillance
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tranhoangtu-it/tranhoangtu-it/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tranhoangtu-it/tranhoangtu-it/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tranhoangtu-it/tranhoangtu-it/output/github-snake.svg" />
+</picture>
 
 ---
 
@@ -64,13 +69,15 @@
 ```
 
 > *"Every plan is a step. Every step is calculated."*
-> 
+>
 > 🔒 **6 plans remain classified.** Clearance level required: **OMEGA**
 >
 > 📡 *Signal intercept active. All frequencies monitored.*
+>
+> 🌐 [**Operations Portal →**](https://tuth.site)
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff6347&height=80&section=footer&fontSize=0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff6347&height=80&section=footer&fontSize=0" width="100%" />
 
 </div>
