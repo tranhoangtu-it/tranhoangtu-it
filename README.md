@@ -44,11 +44,11 @@ Full-stack developer working across the entire stack — systems programming in 
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**openS-Plan-R**](https://github.com/tranhoangtu-it/openS-Plan-R) | Service integration and protocol hub | TypeScript |
-| [**openS-Plan-O**](https://github.com/tranhoangtu-it/openS-Plan-O) | AI output verification tools | Python |
-| [**openS-Plan-I**](https://github.com/tranhoangtu-it/openS-Plan-I) | Statistical prediction engine | Python |
-| [**openS-Plan-L**](https://github.com/tranhoangtu-it/openS-Plan-L) | Real-time translation engine | Rust |
-| [**openS-Plan-K**](https://github.com/tranhoangtu-it/openS-Plan-K) | Numerical computation tools | TypeScript |
+| [**mcpman**](https://github.com/tranhoangtu-it/mcpman) | Universal MCP server package manager for 10+ AI IDEs | TypeScript |
+| [**ai-hallucination-firewall**](https://github.com/tranhoangtu-it/ai-hallucination-firewall) | Pre-commit proxy detecting hallucinated code in AI output | Python |
+| [**agentlens**](https://github.com/tranhoangtu-it/agentlens) | Self-hosted AI agent observability and debugging | Python/TS |
+| [**rt-translator-desktop**](https://github.com/tranhoangtu-it/rt-translator-desktop) | Real-time meeting translation with Whisper and Ollama | Rust |
+| [**ai-cost-profiler**](https://github.com/tranhoangtu-it/ai-cost-profiler) | Token usage and cost profiling across AI providers | TypeScript |
 
 ## Contributions
 
