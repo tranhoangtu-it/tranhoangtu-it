@@ -1,83 +1,71 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=ff6347&height=200&section=header&text=AGENT%20T.&fontSize=80&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=openS%20Operations%20Center&descSize=20&descColor=ff6347&descAlignY=55" width="100%" />
+# Trần Hoàng Tú
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+Decrypting+operation+manifest...;%3E+Establishing+secure+connection...;%3E+Signal+acquired.+All+plans+operational.;%3E+Clearance+level%3A+OMEGA+required." alt="Typing SVG" /></a>
+**Full-Stack Developer** · Vietnam 🇻🇳
+
+Building practical open-source tools — from AI verification to real-time translation.
+
+[![Website](https://img.shields.io/badge/tuth.site-000?style=for-the-badge&logo=safari&logoColor=white)](https://tuth.site)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tranhoangtu-it)
 
 </div>
 
-## 📋 Operation Status
+---
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                    openS OPERATIONS CENTER                   ║
-╠══════════╦═══════════╦═══════════════════════════════════════╣
-║   CODE   ║  STATUS   ║  CLEARANCE                           ║
-╠══════════╬═══════════╬═══════════════════════════════════════╣
-║ Plan A   ║ 🟢 ACTIVE ║ DECLASSIFIED — The genesis            ║
-║ Plan B   ║ 🟢 ACTIVE ║ DECLASSIFIED — Digital signatures     ║
-║ Plan C   ║ 🟢 ACTIVE ║ DECLASSIFIED — Testing boundaries     ║
-║ Plan D   ║ 🟢 ACTIVE ║ DECLASSIFIED — Copilot training       ║
-║ Plan E   ║ 🔴 ACTIVE ║ ██████████ — Need-to-know basis      ║
-║ Plan F   ║ 🟢 ACTIVE ║ DECLASSIFIED — Trust, but verify      ║
-║ Plan G   ║ 🔴 ACTIVE ║ ██████████ — Need-to-know basis      ║
-║ Plan H   ║ 🟢 ACTIVE ║ DECLASSIFIED — Strategy & formation   ║
-║ Plan I   ║ 🟢 ACTIVE ║ DECLASSIFIED — Luck is a variable     ║
-║ Plan J   ║ 🔴 ACTIVE ║ ██████████ — Autonomous operative    ║
-║ Plan K   ║ 🟢 ACTIVE ║ DECLASSIFIED — The numbers game       ║
-║ Plan L   ║ 🟢 ACTIVE ║ DECLASSIFIED — Language barriers      ║
-║ Plan M   ║ 🔴 ACTIVE ║ ██████████ — Silent operations       ║
-║ Plan N   ║ 🟢 ACTIVE ║ DECLASSIFIED — Archive archaeology    ║
-║ Plan O   ║ 🟢 ACTIVE ║ DECLASSIFIED — AI hallucination wall  ║
-║ Plan P   ║ 🟢 ACTIVE ║ DECLASSIFIED — Risk assessment        ║
-║ Plan Q   ║ 🟢 ACTIVE ║ DECLASSIFIED — Follow the money       ║
-║ Plan R   ║ 🟢 ACTIVE ║ DECLASSIFIED — All protocols converge ║
-║ Plan S   ║ 🟢 ACTIVE ║ DECLASSIFIED — Watching the watchers  ║
-║ Plan T   ║ 🔴 ACTIVE ║ ██████████ — Core backbone           ║
-║ Plan U   ║ 🔴 ACTIVE ║ ██████████ — Signal relay            ║
-║ Plan V   ║ 🔴 ACTIVE ║ ██████████ — The final templates     ║
-╚══════════╩═══════════╩═══════════════════════════════════════╝
-```
+## About
+
+Full-stack developer working across the entire stack — systems programming in Rust, web applications with TypeScript, and data tooling with Python. I build practical, well-engineered tools and contribute to open-source.
+
+## Tech Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000?style=flat-square&logo=apple&logoColor=white)
+
+## Currently Learning
+
+![AI/LLM](https://img.shields.io/badge/AI%2FLLM_Agents-412991?style=flat-square&logo=openai&logoColor=white)
+![Rust](https://img.shields.io/badge/Systems_Programming-000?style=flat-square&logo=rust&logoColor=white)
+![Docker](https://img.shields.io/badge/Cloud_%26_DevOps-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+## Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**openS-Plan-R**](https://github.com/tranhoangtu-it/openS-Plan-R) | Service integration and protocol hub | TypeScript |
+| [**openS-Plan-O**](https://github.com/tranhoangtu-it/openS-Plan-O) | AI output verification tools | Python |
+| [**openS-Plan-I**](https://github.com/tranhoangtu-it/openS-Plan-I) | Statistical prediction engine | Python |
+| [**openS-Plan-L**](https://github.com/tranhoangtu-it/openS-Plan-L) | Real-time translation engine | Rust |
+| [**openS-Plan-K**](https://github.com/tranhoangtu-it/openS-Plan-K) | Numerical computation tools | TypeScript |
+
+## Contributions
 
 <div align="center">
-
-## 📊 Intelligence Report
-
-<img src="https://github-readme-stats.vercel.app/api?username=tranhoangtu-it&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6347&icon_color=ff6347&text_color=c9d1d9&ring_color=ff6347" alt="stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tranhoangtu-it&theme=radical&hide_border=true&background=0d1117&ring=ff6347&fire=ff6347&currStreakLabel=ff6347" alt="streak" />
-
-## 🐍 Contribution Surveillance
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tranhoangtu-it/tranhoangtu-it/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tranhoangtu-it/tranhoangtu-it/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tranhoangtu-it/tranhoangtu-it/output/github-snake.svg" />
+  <img alt="contribution graph" src="https://raw.githubusercontent.com/tranhoangtu-it/tranhoangtu-it/output/github-snake.svg" />
 </picture>
 
----
-
-```
- ██████╗ ██████╗ ███████╗███╗   ██╗███████╗
-██╔═══██╗██╔══██╗██╔════╝████╗  ██║██╔════╝
-██║   ██║██████╔╝█████╗  ██╔██╗ ██║███████╗
-██║   ██║██╔═══╝ ██╔══╝  ██║╚██╗██║╚════██║
-╚██████╔╝██║     ███████╗██║ ╚████║███████║
- ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═══╝╚══════╝
-      O P E R A T I O N S    C E N T E R
-```
-
-> *"Every plan is a step. Every step is calculated."*
->
-> 🔒 **6 plans remain classified.** Clearance level required: **OMEGA**
->
-> 📡 *Signal intercept active. All frequencies monitored.*
->
-> 🌐 [**Operations Portal →**](https://tuth.site)
+</div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff6347&height=80&section=footer&fontSize=0" width="100%" />
+<div align="center">
+
+*Open to collaboration on interesting open-source projects.*
 
 </div>
