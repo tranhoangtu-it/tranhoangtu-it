@@ -1,13 +1,14 @@
 <div align="center">
 
-# Trần Hoàng Tú
+# Tran Hoang Tu
 
-**Full-Stack Developer** · Vietnam 🇻🇳
+**AI Automation Engineer** · Vietnam
 
-Building practical open-source tools — from AI verification to real-time translation.
+I build AI systems that save businesses 20+ hours per week — RAG chatbots, workflow automation, and multi-agent systems.
 
-[![Website](https://img.shields.io/badge/tuth.site-000?style=for-the-badge&logo=safari&logoColor=white)](https://tuth.site)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tranhoangtu-it)
+[![Portfolio](https://img.shields.io/badge/tuth.site-000?style=for-the-badge&logo=safari&logoColor=white)](https://tuth.site)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01ff381bfca7e58c0c)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tranhoangtu)
 
 </div>
 
@@ -15,40 +16,49 @@ Building practical open-source tools — from AI verification to real-time trans
 
 ## About
 
-Full-stack developer working across the entire stack — systems programming in Rust, web applications with TypeScript, and data tooling with Python. I build practical, well-engineered tools and contribute to open-source.
+AI Automation Engineer with 8+ years of software engineering experience. I specialize in building production-ready AI solutions: RAG-powered chatbots, business workflow automation, and multi-agent systems. Full-stack capabilities across Python, TypeScript, and Rust.
+
+## Core Services
+
+| Service | Description | Tech |
+|---------|-------------|------|
+| **AI Chatbots & RAG** | Document Q&A with source citations, streaming, memory | Python, LangChain, OpenAI, ChromaDB |
+| **Workflow Automation** | End-to-end business process automation | n8n, Make, FastAPI, API integrations |
+| **Multi-Agent Systems** | AI agent teams for research, analysis, reporting | OpenAI, Python, Streamlit |
 
 ## Tech Stack
 
-**Languages**
+**AI & ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Web & Frontend**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Systems & DevOps**
+
 ![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/macOS-000?style=flat-square&logo=apple&logoColor=white)
-
-## Currently Learning
-
-![AI/LLM](https://img.shields.io/badge/AI%2FLLM_Agents-412991?style=flat-square&logo=openai&logoColor=white)
-![Rust](https://img.shields.io/badge/Systems_Programming-000?style=flat-square&logo=rust&logoColor=white)
-![Docker](https://img.shields.io/badge/Cloud_%26_DevOps-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ## Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [**rag-chatbot**](https://github.com/tranhoangtu-it/rag-chatbot) | AI-powered document Q&A with source citations and streaming | Python, FastAPI, LangChain, Next.js |
+| [**multi-agent-assistant**](https://github.com/tranhoangtu-it/multi-agent-assistant) | Multi-agent AI system for research, analysis, and reports | Python, OpenAI, Streamlit |
+| [**medagent**](https://github.com/tranhoangtu-it/medagent) | AI Assistant for Healthcare Systems — self-hosted, MCP-native | Rust, Python, Next.js |
 | [**mcpman**](https://github.com/tranhoangtu-it/mcpman) | Universal MCP server package manager for 10+ AI IDEs | TypeScript |
-| [**ai-hallucination-firewall**](https://github.com/tranhoangtu-it/ai-hallucination-firewall) | Pre-commit proxy detecting hallucinated code in AI output | Python |
-| [**agentlens**](https://github.com/tranhoangtu-it/agentlens) | Self-hosted AI agent observability and debugging | Python/TS |
-| [**rt-translator-desktop**](https://github.com/tranhoangtu-it/rt-translator-desktop) | Real-time meeting translation with Whisper and Ollama | Rust |
-| [**ai-cost-profiler**](https://github.com/tranhoangtu-it/ai-cost-profiler) | Token usage and cost profiling across AI providers | TypeScript |
+| [**halluciguard-api**](https://github.com/tranhoangtu-it/halluciguard-api) | AI Hallucination Firewall — detect incorrect LLM outputs | Python, FastAPI |
+| [**FHIRBridge**](https://github.com/tranhoangtu-it/FHIRBridge) | Patient Data Portability Tool with AI summaries | TypeScript |
 
 ## Contributions
 
@@ -66,6 +76,6 @@ Full-stack developer working across the entire stack — systems programming in 
 
 <div align="center">
 
-*Open to collaboration on interesting open-source projects.*
+*Open to freelance projects and collaboration. [Get in touch](https://tuth.site/contact)*
 
 </div>
