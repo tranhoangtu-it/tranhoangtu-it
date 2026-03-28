@@ -75,6 +75,10 @@ Software engineer with 8+ years of experience building production systems. I spe
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=tranhoangtu-it&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tranhoangtu-it&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tranhoangtu-it/tranhoangtu-it/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tranhoangtu-it/tranhoangtu-it/output/github-snake.svg" />
