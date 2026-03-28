@@ -65,8 +65,9 @@ Software engineer with 8+ years of experience building production systems. I spe
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**medagent**](https://github.com/tranhoangtu-it/medagent) | AI Assistant for Healthcare — self-hosted, MCP-native | Rust, Python, Next.js |
-| [**mcpman**](https://github.com/tranhoangtu-it/mcpman) | Universal MCP server package manager for 10+ AI IDEs | TypeScript |
+| [**medagent**](https://github.com/tranhoangtu-it/medagent) | AI Assistant for Healthcare — multi-tenant RLS, gRPC microservices, 349+ tests | Rust, Python, Next.js |
+| [**mcpman**](https://github.com/tranhoangtu-it/mcpman) | Universal MCP server package manager — v2.1.0, 46 commands, 10 AI clients, npm published | TypeScript |
+| [**portfolio-site**](https://github.com/tranhoangtu-it/portfolio-site) | AI automation portfolio at [tuth.site](https://tuth.site) — SEO-optimized | Next.js 15, Tailwind v4 |
 | [**halluciguard-api**](https://github.com/tranhoangtu-it/halluciguard-api) | AI Hallucination Firewall — detect incorrect LLM outputs | Python, FastAPI |
 | [**FHIRBridge**](https://github.com/tranhoangtu-it/FHIRBridge) | Patient Data Portability Tool with AI summaries | TypeScript |
 | [**rag-chatbot**](https://github.com/tranhoangtu-it/rag-chatbot) | Document Q&A with source citations and streaming | Python, LangChain, Next.js |
