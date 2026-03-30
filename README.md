@@ -22,7 +22,7 @@
 ## Connect With Me
 
 <p align="left">
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="https://github.com/tranhoangtu-it" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
@@ -71,7 +71,7 @@
       <h3>Project One</h3>
       <p>High-performance web platform with clean architecture and CI/CD automation.</p>
       <p>
-        <a href="https://github.com/your-username/project-one">Repository</a>
+        <a href="https://github.com/tranhoangtu-it/project-one">Repository</a>
         |
         <a href="https://project-one-demo.example.com">Live Demo</a>
       </p>
@@ -80,7 +80,7 @@
       <h3>Project Two</h3>
       <p>AI-powered tool focused on practical workflows and excellent developer experience.</p>
       <p>
-        <a href="https://github.com/your-username/project-two">Repository</a>
+        <a href="https://github.com/tranhoangtu-it/project-two">Repository</a>
         |
         <a href="https://project-two-demo.example.com">Live Demo</a>
       </p>
@@ -93,12 +93,12 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tranhoangtu-it&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=tranhoangtu-it&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranhoangtu-it&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </div>
 
 ---
@@ -106,7 +106,7 @@
 ## Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true" alt="Activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tranhoangtu-it&theme=tokyo-night&hide_border=true" alt="Activity graph" />
 </div>
 
 ---
@@ -114,7 +114,7 @@
 ## Achievements
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tranhoangtu-it&theme=tokyonight&no-frame=true&column=7" alt="Trophies" />
 </p>
 
 ---
@@ -122,7 +122,7 @@
 ## Visitors
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile+Views&color=0A66C2&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=tranhoangtu-it&label=Profile+Views&color=0A66C2&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -140,3 +140,4 @@ Learning deeply, shipping consistently.
 ### "Great software is built with clarity, ownership, and iteration."
 
 </div>
+
