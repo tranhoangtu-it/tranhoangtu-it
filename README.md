@@ -14,7 +14,7 @@
 
 - **Certified HL7 FHIR Implementer** — building healthcare interoperability solutions
 - Building robust products from idea to production with clean architecture
-- Active open source contributor — PRs in **Microsoft**, **Grafana**, **Astral (Ruff)**, **Typst**, **Nushell**, and more
+- Active open source contributor — merged PRs in **Microsoft**, **Astral (Ruff)**, **Django**, and more
 - Security researcher on **Huntr** and **HackerOne** — finding vulnerabilities in AI/ML frameworks
 - Based in Vietnam 🇻🇳 · Always shipping
 
@@ -77,20 +77,18 @@
 
 ## Open Source Contributions
 
-Active contributor to major open source projects:
+Merged contributions to open source projects:
 
 | Project | Stars | Contribution |
 |---------|-------|-------------|
-| [**microsoft/fhir-server**](https://github.com/microsoft/fhir-server) | ![](https://img.shields.io/github/stars/microsoft/fhir-server?style=flat&label=) | CapabilityStatement FHIR conformance fix |
 | [**microsoft/aspire**](https://github.com/microsoft/aspire) | ![](https://img.shields.io/github/stars/microsoft/aspire?style=flat&label=) | Add Logger property to ExecuteCommandContext |
-| [**astral-sh/ruff**](https://github.com/astral-sh/ruff) | ![](https://img.shields.io/github/stars/astral-sh/ruff?style=flat&label=) | RUF010 unsafe fix when deleting comments |
-| [**grafana/grafana**](https://github.com/grafana/grafana) | ![](https://img.shields.io/github/stars/grafana/grafana?style=flat&label=) | Prometheus label refresh fix |
-| [**typst/typst**](https://github.com/typst/typst) | ![](https://img.shields.io/github/stars/typst/typst?style=flat&label=) | Counter documentation improvements |
-| [**nushell/nushell**](https://github.com/nushell/nushell) | ![](https://img.shields.io/github/stars/nushell/nushell?style=flat&label=) | HTTP x-nuon content-type handling |
-| [**tauri-apps/tauri**](https://github.com/tauri-apps/tauri) | ![](https://img.shields.io/github/stars/tauri-apps/tauri?style=flat&label=) | DMG detach customization via env vars |
-| [**sindresorhus/eslint-plugin-unicorn**](https://github.com/sindresorhus/eslint-plugin-unicorn) | ![](https://img.shields.io/github/stars/sindresorhus/eslint-plugin-unicorn?style=flat&label=) | Cached-length pattern in no-for-loop |
-| [**validatorjs/validator.js**](https://github.com/validatorjs/validator.js) | ![](https://img.shields.io/github/stars/validatorjs/validator.js?style=flat&label=) | Add fr-ML and fr-TG phone locales |
-| [**stdlib-js/stdlib**](https://github.com/stdlib-js/stdlib) | ![](https://img.shields.io/github/stars/stdlib-js/stdlib?style=flat&label=) | JavaScript lint error fixes |
+| [**astral-sh/ruff**](https://github.com/astral-sh/ruff) | ![](https://img.shields.io/github/stars/astral-sh/ruff?style=flat&label=) | RUF010 mark fix as unsafe when deleting comments |
+| [**wemake-services/django-modern-rest**](https://github.com/wemake-services/django-modern-rest) | ![](https://img.shields.io/github/stars/wemake-services/django-modern-rest?style=flat&label=) | Update default Django to 6.0, add 5.2 to CI |
+| [**fynnfluegge/agtx**](https://github.com/fynnfluegge/agtx) | ![](https://img.shields.io/github/stars/fynnfluegge/agtx?style=flat&label=) | Fix scroll_up offset phantom dead zone |
+| [**jqhz/MCSRHub**](https://github.com/jqhz/MCSRHub) | ![](https://img.shields.io/github/stars/jqhz/MCSRHub?style=flat&label=) | Add smooth closing animation to desktop drawer |
+| [**btursunbayev/nvsonar**](https://github.com/btursunbayev/nvsonar) | ![](https://img.shields.io/github/stars/btursunbayev/nvsonar?style=flat&label=) | Add memory_used_gb and memory_total_gb to JSON report |
+| [**zendvolabs/zendvo**](https://github.com/zendvolabs/zendvo) | ![](https://img.shields.io/github/stars/zendvolabs/zendvo?style=flat&label=) | Ensure 44x44px minimum touch target |
+| [**OneStepAt4time/aegis**](https://github.com/OneStepAt4time/aegis) | ![](https://img.shields.io/github/stars/OneStepAt4time/aegis?style=flat&label=) | Add file audit job to CI |
 
 ---
 
