@@ -6,6 +6,7 @@
 
 Vietnam · Remote (UTC+7) · Available for **Fast-Turnaround Engineering, Edge SaaS & AI Automation Contracts**
 
+<a href="https://gitranks.com/user/tranhoangtu-it"><img src="https://img.shields.io/badge/GitRanks-67.4k%2B_%E2%AD%90_Contributions-7C3AED?style=flat-square&logo=github&logoColor=white" alt="GitRanks" /></a>
 <a href="https://tuth.site"><img src="https://img.shields.io/badge/Portfolio-tuth.site-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://tranhoangtu-it.github.io"><img src="https://img.shields.io/badge/Developer_Hub-tranhoangtu--it.github.io-111827?style=flat-square&logo=github&logoColor=white" alt="Developer Hub" /></a>
 <a href="https://tranhoangtu.gumroad.com"><img src="https://img.shields.io/badge/Pro_Source_Bundles-Gumroad-FF90E8?style=flat-square&logo=gumroad&logoColor=black" alt="Gumroad" /></a>
@@ -100,14 +101,14 @@ Document Q&A with retrieval-augmented generation, source citations, and streamin
 
 ## Selected Open Source Contributions
 
-| Project | Contribution |
-|---|---|
-| [microsoft/aspire](https://github.com/microsoft/aspire) | [Add Logger property to ExecuteCommandContext](https://github.com/microsoft/aspire/pull/15678) |
-| [astral-sh/ruff](https://github.com/astral-sh/ruff) | [RUF010: mark fix as unsafe when deleting comments](https://github.com/astral-sh/ruff/pull/24270) |
-| [wemake-services/django-modern-rest](https://github.com/wemake-services/django-modern-rest) | [Update default Django to 6.0, add 5.2 to CI](https://github.com/wemake-services/django-modern-rest/pull/761) |
-| [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) | [Fix scroll_up offset phantom dead zone](https://github.com/fynnfluegge/agtx/pull/52) |
-| [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) | [Merged contribution](https://github.com/stdlib-js/stdlib/pull/11187) |
-| [tscircuit](https://github.com/tscircuit) | PCB stackup selection, STEP B-Rep geometry, KiCad 3D export & native Altium compound-file export |
+| Project | Stars | Contribution |
+|---|---|---|
+| [microsoft/aspire](https://github.com/microsoft/aspire) | ![stars](https://img.shields.io/github/stars/microsoft/aspire?style=flat-square) | [Add Logger property to ExecuteCommandContext](https://github.com/microsoft/aspire/pull/15678) |
+| [astral-sh/ruff](https://github.com/astral-sh/ruff) | ![stars](https://img.shields.io/github/stars/astral-sh/ruff?style=flat-square) | [RUF010: mark fix as unsafe when deleting comments](https://github.com/astral-sh/ruff/pull/24270) |
+| [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) | ![stars](https://img.shields.io/github/stars/stdlib-js/stdlib?style=flat-square) | [Fix JavaScript lint errors](https://github.com/stdlib-js/stdlib/pull/11187) |
+| [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) | ![stars](https://img.shields.io/github/stars/fynnfluegge/agtx?style=flat-square) | [Fix scroll_up offset phantom dead zone](https://github.com/fynnfluegge/agtx/pull/52) |
+| [wemake-services/django-modern-rest](https://github.com/wemake-services/django-modern-rest) | ![stars](https://img.shields.io/github/stars/wemake-services/django-modern-rest?style=flat-square) | [Update default Django to 6.0, add 5.2 to CI](https://github.com/wemake-services/django-modern-rest/pull/761) |
+| [tscircuit](https://github.com/tscircuit) | EDA / CAD | PCB stackup selection, STEP B-Rep geometry, KiCad 3D export & native Altium compound-file export |
 
 ## Work With Me
 
