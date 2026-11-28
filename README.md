@@ -110,6 +110,21 @@ Document Q&A with retrieval-augmented generation, source citations, and streamin
 | [wemake-services/django-modern-rest](https://github.com/wemake-services/django-modern-rest) | ![stars](https://img.shields.io/github/stars/wemake-services/django-modern-rest?style=flat-square) | [Update default Django to 6.0, add 5.2 to CI](https://github.com/wemake-services/django-modern-rest/pull/761) |
 | [tscircuit](https://github.com/tscircuit) | EDA / CAD | PCB stackup selection, STEP B-Rep geometry, KiCad 3D export & native Altium compound-file export |
 
+## One-Line CLI & Package Manager Quickstart
+
+Try my developer tools and cross-platform package managers directly from your terminal:
+
+```bash
+# Universal MCP server package manager (Claude, Cursor, VS Code, Codex CLI, Zed)
+npx mcpman@latest install @modelcontextprotocol/server-github
+
+# macOS & Linux Homebrew tap for developer CLIs
+brew tap tranhoangtu-it/tap https://github.com/tranhoangtu-it/homebrew-tap
+
+# Windows admin-free Scoop bucket
+scoop bucket add tranhoangtu https://github.com/tranhoangtu-it/scoop-bucket
+```
+
 ## Work With Me
 
 Need a **production Cloudflare Workers SaaS**, **AI agent / MCP integration**, **e-invoicing / fintech automation pipeline**, or **high-velocity TypeScript/Python/Rust engineering**?
